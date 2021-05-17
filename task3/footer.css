@@ -1,0 +1,56 @@
+.footer{
+    background-color: #1e212d;
+    padding:40px;
+    color: #faf3e0
+}
+#footericons{
+text-decoration: none;
+margin-left: 10px;
+}
+#copy{
+    margin-left:570px;
+}
+#mapres{
+    height:300px;
+    width:600px;
+    margin-left: 410px;
+    padding:30px;
+}
+#icon1{
+    font-size:25px;margin:20px;margin-left:400px;
+}
+#icon2{
+    font-size:25px;margin:20px;margin-left:70px;
+}
+#icon3{
+    font-size:25px;margin:20px;margin-left:70px;
+}
+@media only screen and (max-width: 600px) {
+    #footericons{
+        text-decoration: none;
+        margin-left: 2px;
+        }
+        .footer{
+            background-color: #1e212d;
+            padding:20px;
+            color: #faf3e0
+        }
+        #copy{
+            margin-left:20px;
+        }
+        #mapres{
+            height:200px;
+            width:300px;
+            margin-left: 10px;
+            padding:10px;
+        }
+        #icon1{
+            font-size:25px;margin:20px;margin-left:90px;
+        }
+        #icon2{
+            font-size:25px;margin:20px;margin-left:97px;
+        }
+        #icon3{
+            font-size:25px;margin:20px;margin-left:85px;
+        }
+}
